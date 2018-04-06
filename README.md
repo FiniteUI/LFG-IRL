@@ -1,11 +1,17 @@
 # LFG-IRL, Fall 2017
 This is the semester group project for my Fall 2017 Software Engineering class.
 
-This was my second group programming project, and my first with a group this large. There were 12 students in this group.
+This was my second group programming project, and my first with a group this large. There were 12 students in this group. This project was meant mostly to teach students the difficulties of group software developement.
 
 For this project we had to go through the entire software developement process. We made a group, came up with an idea, wrote a specification, made a design, implemented it, and presented it.
 
 Our application, LFG-IRL, is an application for finding groups of people for activities.
+
+Originally intended to be a web application, we decided to switch to a desktop application (I was outvoted).
+
+We used a MySQL database and an FTP server hosted on HelioHost.
+
+Most of the windows were made using WindowBuilder in Eclipse.
 
 The exact project requirements are in SESemesterProjectRequirements.pdf
 
