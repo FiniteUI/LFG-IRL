@@ -25,6 +25,8 @@ Brochure.pdf is a handout we gave to the class during our presentation.
 
 FutureWork.pdf is a list of features we were not able to implement and would like to in the future.
 
+I was personally responsible for creating and managing the database. I also was one of the members working on the design using Jackson's technique. The code I worked on is listed below.
+
 ## Code:
 ### Code I wrote:
 AddMember.java, a module for adding a member to a group.
